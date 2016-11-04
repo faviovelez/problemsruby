@@ -1,0 +1,1 @@
+# Generar 10 números enteros al azar y guardarlos dentro de un arreglo, luego calcular el promedio
